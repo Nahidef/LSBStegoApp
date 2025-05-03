@@ -14,7 +14,7 @@ Bu proje, **LSB (Least Significant Bit)** algoritması kullanarak **WAV ve AVI**
 1. `TextBox` alanına gömmek istediğiniz mesajı yazın.  
 2. `WAV dosyasına mesaj göm` butonuna tıklayarak bir WAV dosyası seçin ve mesajı gömün.  
 3. `AVI dosyasına mesaj göm` butonuna tıklayarak bir AVI dosyası seçin ve mesajı gömün.  
-4. `Mesajı çöz` butonuna tıklayarak bir WAV veya AVI dosyasındaki mesajı görüntüleyin.
+4. `VAW/AVI dosyasından mesaj çıkar` butonuna tıklayarak bir WAV veya AVI dosyasındaki mesajı görüntüleyin.
 
 ## 💻 Gereksinimler
 
